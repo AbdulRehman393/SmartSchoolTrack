@@ -29,7 +29,8 @@ It provides an easy-to-use desktop interface for managing school operations such
 
 | Login Page | Dashboard | Student Management | Attendance |
 |------------|-----------|--------------------|------------|
-| ![Login](Projectscreenshots/.png) | ![Dashboard](screenshots/dashboard.png) | ![Students](screenshots/students.png) | ![Attendance](screenshots/attendance.png) |
+| ![Login](Projectscreenshots/projectss1.png) | ![MainPage](Projectscreenshots/projectss2.png)) | ![Students](Projectscreenshots/projectss3.png)) |
+![Attendance](Projectscreenshots/projectss4.png) |
 
 > Place your 4 screenshots in a folder named **`screenshots/`** inside the repository.  
 
